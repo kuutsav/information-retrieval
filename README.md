@@ -22,5 +22,9 @@ Along with IR techniques, we will also cover:
     can we efficiently find this "needle in the haystack" or the "relevant *documents* for a *query*".
 
 * 2 - Evaluation metrics
-* 3 - Dense representation of works and sentences
+
+    **Binary**: MRR, MAP@k; **Graded**: nDCG@k.
+    The idea behind these evaluations is to quantitatively compare multiple IR models. Typically we have a labelled dataset where we have queries mapped to relvevant documents. The documents could either be graded or non-graded(binary). For example, a graded relevance score could be on a scale of 0-5 with 5 being the most relevant.
+
+* 3 - Dense representation of words and sentences
 * 4 - Dense IR
