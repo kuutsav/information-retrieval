@@ -27,4 +27,7 @@ Along with IR techniques, we will also cover:
     The idea behind these evaluations is to quantitatively compare multiple IR models. Typically we have a labelled dataset where we have queries mapped to relvevant documents. The documents could either be graded or non-graded(binary). For example, a graded relevance score could be on a scale of 0-5 with 5 being the most relevant.
 
 * 3 - Dense representation of words and sentences
+
+    Sparse represenation of texts using one-hot vectors is very limited. We look at ways to learn dense representations of text, from count based methods like LSA(TF_IDF+SVD) to Word2Vec to RNNs. Finally we look at how transformers are used in the IR setting.
+
 * 4 - Dense IR
