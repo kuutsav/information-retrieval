@@ -1,7 +1,7 @@
 # Information Retrieval
 
 > Information Retrieval is the process through which a computer system can respond to a user's query for text-based information
-> on a specific topic. IR was one of the first and remains one ofr the most important problems in the domain of natural
+> on a specific topic. IR was one of the first and remains one of the most important problems in the domain of natural
 > laguague processing (NLP) - [stanford cs276](https://web.stanford.edu/class/cs276/)
 
 This repo contains tutorials covering the breadth of techniques available for IR.
