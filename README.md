@@ -48,10 +48,13 @@ Along with IR techniques, we will also cover:
     We see how knowledge distillation can be used to train a Multilingual Student sentence encoder using a Teacher model which has
     been finetuned for STS tasks.
 
-* 7 - Unsupervised training of SBERT - TSDAE [[Notebook](./7_unsupervised_training_tsdae.ipynb)]
+* 7.1 - Unsupervised training of SBERT - TSDAE [[Notebook](./7.1_unsupervised_training_tsdae.ipynb)]
 
     We finally shift our attention to unsupervised techniques to train encoders for STS tasks with no labeled data. Here we look
     into TSDAE - Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning.
+
+
+* 7.2 - Unsupervised training of SBERT - TSDAE (pytorch version) [[Notebook](./7.2_unsupervised_training_tsdae_pytorch.ipynb)]
 
 
 ## Requirements
