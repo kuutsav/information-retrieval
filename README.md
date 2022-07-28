@@ -56,8 +56,14 @@ Along with IR techniques, we will also cover:
 
 * 7.2 - Unsupervised training of SBERT - TSDAE (pytorch version) [[Notebook](./7.2_unsupervised_training_tsdae_pytorch.ipynb)]
 
+* 8 - Unsupervised training of SBERT - SimCSE [[Notebook](./8_unsupervised_training_simcse.ipynb)]
+    
+    We will implement SimCSE, a simple contrastive learning framework that works with both unlabeled and labeled data.
+
 
 ## Requirements
+
+All the notebooks have been tested in python version 3.9.12
 
 - datasets==2.3.2
 - numpy==1.21.5
