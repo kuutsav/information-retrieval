@@ -34,7 +34,7 @@ Along with IR techniques, we will also cover:
     from count based methods like LSA(TF_IDF+SVD) to Word2Vec to RNNs. Finally we look at how transformers are used in the IR
     setting.
 
-* **4 - Fintuning Sentence BERT(SBERT) with Multiple Negative Ranking loss** [[Notebook](./4_finetuning_sbert_with_mnr.ipynb)]
+* **4 - Finetuning Sentence BERT(SBERT) with Multiple Negative Ranking loss** [[Notebook](./4_finetuning_sbert_with_mnr.ipynb)]
     
     We look at a better way to finetune Bi-Encoders using MNR loss. We will need lesser data and training to achieve better
     results.
