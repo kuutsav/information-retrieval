@@ -10,7 +10,7 @@ Along with IR techniques, we will also cover:
 - Techniques/metrics for evaluating IR models.
 - Approximate Nearest Neighbor techniques used for indexing and searching dense vectors
      (used for many dense retrieval techniques).
-- Other relevant info ...
+- Vector databases and other relevant info.
 
 
 ## Tutorials
@@ -58,7 +58,17 @@ Along with IR techniques, we will also cover:
 
 * 8 - Unsupervised training of SBERT - SimCSE [[Notebook](./8_unsupervised_training_simcse.ipynb)]
     
-    We will implement SimCSE, a simple contrastive learning framework that works with both unlabeled and labeled data.
+    We will look into SimCSE, a simple contrastive learning framework that works with both unlabeled and labeled data.
+
+* 9 - Unsupervised training of SBERT - GPL [[Notebook](./9_unsupervised_training_gpl.ipynb)]
+
+    We will look into GPL, Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval.
+
+
+## Roadmap
+
+- Approximate Nearest Neighbor techniques
+- Vector databases
 
 
 ## Requirements
