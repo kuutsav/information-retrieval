@@ -62,20 +62,3 @@ Along with IR techniques, we will also cover:
 10. **Unsupervised training of SBERT - GPL** [[Notebook](./9_unsupervised_training_gpl.ipynb)]
 
     We will look into GPL, Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval.
-
-
-## Roadmap
-
-- Approximate Nearest Neighbor techniques
-- Vector databases
-
-
-## Requirements
-
-All the notebooks have been tested in python version 3.9.12
-
-- datasets==2.3.2
-- numpy==1.21.5
-- torch==1.11.0
-- transformers==4.20.1
-- sentence_transformers==2.2.2
