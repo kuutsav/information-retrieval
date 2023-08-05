@@ -1,0 +1,5 @@
+datasets==2.3.2
+numpy==1.21.5
+torch==1.11.0
+transformers==4.20.1
+sentence_transformers==2.2.2
